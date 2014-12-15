@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RunShell::VERSION
   spec.authors       = ["bruce"]
   spec.email         = ["zth5906@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{run shell}
+  spec.description   = %q{run shell }
   spec.homepage      = ""
   spec.license       = "MIT"
 
